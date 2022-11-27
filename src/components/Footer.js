@@ -1,9 +1,10 @@
 import React from "react";
+import "../index.css";
 
 function Footer() {
     return (
-        <div>
-            <footer className="footer">
+        <div className="footer">
+            <footer >
                 <small>Smith development. All rights reserved.</small>
             </footer>
         </div>
